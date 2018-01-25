@@ -1,0 +1,11 @@
+2018-01-25 17:26:05.709 INFO [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:17)] - It is info log -  0
+2018-01-25 17:26:05.714 WARN [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:19)] - It is warn log - 1
+2018-01-25 17:26:05.714 INFO [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:17)] - It is info log -  2
+2018-01-25 17:26:05.715 WARN [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:19)] - It is warn log - 3
+2018-01-25 17:26:05.716 INFO [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:17)] - It is info log -  4
+2018-01-25 17:26:05.716 WARN [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:19)] - It is warn log - 5
+2018-01-25 17:26:05.717 INFO [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:17)] - It is info log -  6
+2018-01-25 17:26:05.717 WARN [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:19)] - It is warn log - 7
+2018-01-25 17:26:05.718 INFO [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:17)] - It is info log -  8
+2018-01-25 17:26:05.718 WARN [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:19)] - It is warn log - 9
+2018-01-25 17:26:05.718 ERROR [main] [log4j2.jsample.App] [main] [log4j2.jsample.App.main(App.java:21)] - It is error log
